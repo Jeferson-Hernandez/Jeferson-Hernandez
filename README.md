@@ -10,6 +10,8 @@ Dispuesto a aprender nuevas herramientas, con muchas ganas de seguir aprendiendo
 
 ![portafolio](https://github.com/Jeferson-Hernandez/Jeferson-Hernandez/blob/main/portafolio-banner.jpg)
 
+portafolio inspirado en [Brittany Chiang](https://v4.brittanychiang.com/)
+
 #### live
 
 ---
