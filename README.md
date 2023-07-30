@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola, mi nombre es Jeferson 👋
 
-<!--
-**Jeferson-Hernandez/Jeferson-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado actualmente en el entorno de **JavaScript**, específicamente en **React**, 
+con muchas expectativas de seguir explorando este lenguaje. 
+Dispuesto a aprender nuevas herramientas, con muchas ganas de seguir aprendiendo y mejorar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portafolio
+
+![portafolio](https://github.com/Jeferson-Hernandez/Jeferson-Hernandez/edit/main/portafolio-banner.jpg)
+
+### [live](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+
+---
