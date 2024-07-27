@@ -1,8 +1,7 @@
 ## Hola, mi nombre es Jeferson 👋
 
-Soy un desarrollador enfocado actualmente en el entorno de **JavaScript**, específicamente en **React**, 
-con muchas expectativas de seguir explorando este lenguaje.
-
+Soy un desarrollador enfocado actualmente en el entorno de **JavaScript** y **Python**, específicamente en **React/Next** y **Django**, 
+con conocimiento en bases de datos como **PostgreSQL** y **MongoDB**.
 
 Dispuesto a aprender nuevas herramientas, con muchas ganas de seguir aprendiendo y mejorar.
 
@@ -10,8 +9,6 @@ Dispuesto a aprender nuevas herramientas, con muchas ganas de seguir aprendiendo
 
 ![portafolio](https://github.com/Jeferson-Hernandez/Jeferson-Hernandez/blob/main/portafolio-banner.jpg)
 
-portafolio inspirado en [Brittany Chiang](https://v4.brittanychiang.com/)
-
-#### live
-
+## live
+[Nuevo portafolio](https://jefer-portfoliov2.netlify.app/)
 ---
