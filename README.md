@@ -1,6 +1,9 @@
 ## Hola, mi nombre es Jeferson 👋
 
-Soy un desarrollador enfocado actualmente en el entorno de **JavaScript/TypeScript** y **Python**, específicamente en **React/Next**, 
+Analista de Datos junior, con conocimientos en **PostgreSQL**, **Excel**, **Power BI**, **Python** y **Análisis estadístico y probabilidad**,
+enfocado en la limpieza, visualización y análisis de los datos.
+
+También cuento con conocimientos en Desarrollo Web con el uso de **JavaScript/TypeScript** y **Python**, específicamente en **React/Next**, 
 con conocimiento en bases de datos como **PostgreSQL** y **MongoDB**.
 Dispuesto a aprender nuevas herramientas, con muchas ganas de seguir aprendiendo y mejorar.
 
